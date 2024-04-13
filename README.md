@@ -1,2 +1,2 @@
 # convert-currency
-Using this project you can convert your currency to different currencies.
+Using this project you can convert your currency to another currency.
